@@ -14,7 +14,7 @@ The model then analyzes the inputs and predicts whether the user is at **high ri
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
