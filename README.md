@@ -20,6 +20,16 @@ The model then analyzes the inputs and predicts whether the user is at **high ri
 
 ## 🗂 Project Structure
 
+HeartHealthAnalysis/
+│-- app.py # Main Streamlit application
+│-- columns.pkl # Stores the feature names expected by the model
+│-- heart.csv # Heart disease dataset used for training
+│-- logReg_heart.pkl # Trained Logistic Regression model
+│-- scaler.pkl # StandardScaler used for data normalization
+│-- Untitled.ipynb # Jupyter Notebook for training & experimentation
+│-- requirements.txt # Python dependencies
+│-- Screenshot.png # Application preview
+
 
 ---
 
